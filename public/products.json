@@ -2,16 +2,16 @@
   "products": [{
       "id": "1",
       "name": "Chair",
-      "image": "https://devitems.com/preview/furnish/img/product/1.jpg",
+      "image": "chair.jpg",
       "price": "$39",
-      "colors": ["red", "green", "blue"],
+      "colors": ["red"],
       "condition": "New",
-      "description": "Black chair"
+      "description": "Wooden chair"
     },
     {
       "id": "2",
       "name": "Lamp",
-      "image": "https://devitems.com/preview/furnish/img/product/2.jpg",
+      "image": "lamp.jpg",
       "price": "$319",
       "colors": ["green", "blue"],
       "condition": "Used",
@@ -20,20 +20,20 @@
     {
       "id": "3",
       "name": "Statue",
-      "image": "https://devitems.com/preview/furnish/img/product/3.jpg",
+      "image": "statue.jpg",
       "price": "$239",
-      "colors": ["red"],
+      "colors": ["green"],
       "condition": "Used",
       "description": "Used Statue"
     },
     {
       "id": "4",
-      "name": "Seat",
-      "image": "https://devitems.com/preview/furnish/img/product/4.jpg",
-      "price": "$239",
+      "name": "Vase",
+      "image": "vase.jpg",
+      "price": "$79",
       "colors": ["blue"],
       "condition": "New",
-      "description": "Large Seat"
+      "description": "Antique Vase"
     }
   ]
 }
