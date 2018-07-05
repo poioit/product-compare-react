@@ -2,15 +2,15 @@
 
 Product comparison page build using **React** + **Redux** + **Bootstrap** + **SASS**
 
-![Screenshot](https://imgur.com/a/e6Jrm7Q)
+![Screenshot](https://i.imgur.com/aGaoRXv.png)
 
-It's build on top of [`create-react-app`](http://www.google.com)
+It's build on top of [`create-react-app`](https://github.com/facebook/create-react-app)
 
 Usage
 -
 Documentation how to *run*, *build* and *test* app
 
-> https://github.com/facebookincubator/create-react-app#npm-start-or-yarn-start
+> https://github.com/facebook/create-react-app#npm-start-or-yarn-start
 
 License
 -
