@@ -8,9 +8,11 @@ afterAll(async () => {
     await page.close();
 });
 
-test('should lazy load new list items', async () => {
-        const url = "https://google.com/"
+test('check title chair', async () => {
+        const url = "http://localhost:3000/"
         await page.goto(url);
+        const html = await page.$eval('.product_name', e => e.innerHTML);
+        expect(html).toBe('Chair');
     },
     10000
 );
